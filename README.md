@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ricardo Perea</h1>
+<h1 align="center">Hello 👋, I'm Ricardo Perea</h1>
 <h3 align="center">A passionate Frontend Developer from México</h3>
 
 - 🌱 I’m currently learning **Solidity**
