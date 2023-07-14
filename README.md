@@ -1,15 +1,15 @@
-<h1 align="center">Hello 👋, I'm Ricardo Perea</h1>
+<h1 align="center">Hello 👋, I'm Michel Perea</h1>
 <h3 align="center">A passionate Frontend Developer from México</h3>
 
 - 🌱 I’m currently learning **Solidity**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js**
 
-- 📫 How to reach me **aztro812@hotmail.com**
+- 📫 How to reach me **ing_michel_@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ricardo-perea/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardoperea" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/michel-perea/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michel perea" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
