@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React.js**
+- 💬 Ask me about **HTML, CSS, JavaScript, React**
 
 - 📫 How to reach me **ing_michel_@hotmail.com**
 
