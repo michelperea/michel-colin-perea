@@ -1,11 +1,9 @@
 # Hi, I'm Michel Colín Perea
 ## Innovative Full Stack Developer from Mexico
 
-### About Me
-
 I'm a passionate Full Stack developer based in Mexico, dedicated to creating cutting-edge web solutions. My approach combines design, technology, and problem-solving to deliver exceptional results.
 
-### Key Skills
+## Key Skills
 
 - **Front End Development**: My mastery includes **HTML5** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20" />, **CSS3** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20" />, **JavaScript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" />, and **React** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20" />. I transform ideas into captivating visual experiences.
 
@@ -17,7 +15,7 @@ I'm a passionate Full Stack developer based in Mexico, dedicated to creating cut
 
 - **Development Environment**: I'm comfortable in the world of **Linux** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20" height="20" />, harnessing its open-source potential.
 
-### Contact
+## Contact
 
 I'm ready to lead your next project. If you have questions, innovative ideas, or wish to discuss web development, **Python**, **Front End**, or **Back End**, feel free to get in touch with me.
 
