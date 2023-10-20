@@ -23,24 +23,6 @@ Let's connect on [🔗 LinkedIn](https://www.linkedin.com/in/michel-perea) and l
 
 
 
-# 👋 Hola, soy Michel Perea
-## 🚀 Desarrollador Full Stack Innovador de México
-
-Soy un innovador desarrollador Full Stack con sede en México, con una apasionada determinación por crear soluciones web de vanguardia. Mi experiencia radica en la intersección de diseño, tecnología y resolución de problemas.
-
-## Habilidades:
-- 🌱 **Solidity**: Explorando el mundo de blockchain y contratos inteligentes.
-
-- 💬 **Front End**: Dominando el arte de **HTML5** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20" />, **CSS3** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20" />, **JavaScript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" />, y **React** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20" />.
-
-- 💻 **Back End**: Experto en **Python** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20" />, impulsando aplicaciones robustas y escalables.
-
-- 🅱️ **Bootstrap** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="20" height="20" />: Creando interfaces de usuario receptivas y elegantes.
-
-- 📚 **Git** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20" />: Gestionando el código con precisión y colaboración.
-
-- 🐧 **Linux** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20" height="20" />: Abrazando el mundo de código abierto.
-
 Únete a mí para reformar el panorama digital con innovación, creatividad y código. No dudes en ponerte en contacto si estás listo para embarcarte en el próximo gran proyecto. Puedes contactarme por correo electrónico en [📧 ing_michel_@hotmail.com](mailto:ing_michel_@hotmail.com).
 
 Conéctate conmigo en [🔗 LinkedIn](https://www.linkedin.com/in/michel-perea) y lideremos juntos el camino hacia un mejor internet.
