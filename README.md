@@ -9,9 +9,11 @@
 [LinkedIn](https://www.linkedin.com/in/michel-perea)
 
 ## Languages and Tools:
-- HTML5
-- [CSS3](https://www.w3schools.com/css/)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [React](https://reactjs.org/)
-- [Git](https://git-scm.com/)
-- Linux
+- HTML5 ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+- CSS3 ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+- JavaScript ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+- React ![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+- Python ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+- Bootstrap ![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)
+- Git ![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+- Linux ![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
