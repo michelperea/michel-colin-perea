@@ -1,24 +1,24 @@
-# Hola, Soy Michel Perea
-## Desarrollador Full Stack Innovador de México
+# Hi, I'm Michel Colín Perea
+## Innovative Full Stack Developer from Mexico
 
-### Sobre Mí
+### About Me
 
-Soy un apasionado desarrollador Full Stack con sede en México, comprometido en la creación de soluciones web de vanguardia. Mi enfoque combina diseño, tecnología y resolución de problemas para entregar resultados excepcionales.
+I'm a passionate Full Stack developer based in Mexico, dedicated to creating cutting-edge web solutions. My approach combines design, technology, and problem-solving to deliver exceptional results.
 
-### Habilidades Clave
+### Key Skills
 
-- **Desarrollo Front End**: Mi dominio incluye **HTML5** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20" />, **CSS3** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20" />, **JavaScript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" />, y **React** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20" />. Transformo ideas en experiencias visuales cautivadoras.
+- **Front End Development**: My mastery includes **HTML5** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20" />, **CSS3** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20" />, **JavaScript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" />, and **React** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20" />. I transform ideas into captivating visual experiences.
 
-- **Desarrollo Back End**: Mi experiencia se centra en **Python** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20" />, construyendo aplicaciones sólidas y escalables.
+- **Back End Development**: My expertise lies in **Python** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20" />, building robust and scalable applications.
 
-- **Diseño Responsive**: Utilizo **Bootstrap** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="20" height="20" /> para crear interfaces de usuario elegantes y adaptables.
+- **Responsive Design**: I use **Bootstrap** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="20" height="20" /> to create elegant and adaptable user interfaces.
 
-- **Gestión de Versiones**: Profesional en **Git** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20" />, asegurando un desarrollo colaborativo sin problemas.
+- **Version Control**: Proficient in **Git** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20" />, ensuring seamless collaborative development.
 
-- **Entorno de Desarrollo**: Me siento cómodo en el mundo de **Linux** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20" height="20" />, aprovechando su potencial de código abierto.
+- **Development Environment**: I'm comfortable in the world of **Linux** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20" height="20" />, harnessing its open-source potential.
 
-### Contacto
+### Contact
 
-Estoy listo para liderar tu próximo proyecto. Si tienes preguntas, ideas innovadoras o deseas discutir desarrollo web, **Python**, **Front End** o **Back End**, no dudes en ponerte en contacto conmigo. 
+I'm ready to lead your next project. If you have questions, innovative ideas, or wish to discuss web development, **Python**, **Front End**, or **Back End**, feel free to get in touch with me.
 
-Puedes enviarme un correo electrónico a [📧 ing_michel_@hotmail.com](mailto:ing_michel_@hotmail.com) y conectarte conmigo en [🔗 LinkedIn](https://www.linkedin.com/in/michel-perea). Juntos, podemos avanzar hacia un futuro digital excepcional.
+You can email me at [📧 ing_michel_@hotmail.com](mailto:ing_michel_@hotmail.com) and connect with me on [🔗 LinkedIn](https://www.linkedin.com/in/michel-perea). Together, we can move towards an exceptional digital future.
