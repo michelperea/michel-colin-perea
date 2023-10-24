@@ -37,7 +37,7 @@ I'm a passionate Full Stack developer based in Mexico, dedicated to creating cut
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/react.svg"> &nbsp
+    src="./assets/react.svg"> &nbsp;
 
   <!--;<img width="70px" 
     height="70px" 
