@@ -3,8 +3,6 @@
 
 ### About Me
 
-Here's the correct translation into English without changing the idea:
-
 "I am a passionate programmer, focused on continuous and permanent improvement. My approach is pragmatic, disruptive, cutting-edge, and innovative. My goal is to master software design patterns and software architecture to provide exceptional value. I am efficient, creative, innovative, collaborative, and naturally solution-oriented. I take pleasure in getting to know the values, goals and mission of the company that hires me, as my aim is to merge my knowledge to achieve a perfect synergy and symbiosis. My purpose is to contribute my skills to the development of my employers while continually improving and perfecting my knowledge every day to keep evolving. It's a pleasure to meet you!"
 
 ### Key Skills
