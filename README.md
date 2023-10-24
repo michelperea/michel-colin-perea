@@ -1,5 +1,5 @@
 # Hi, I'm Michel Colín Perea
-## Innovative Full Stack Developer from Mexico
+## Full Stack Developer from Mexico
 
 ### About Me
 
