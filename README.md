@@ -41,7 +41,7 @@ I'm a passionate Full Stack developer based in Mexico, dedicated to creating cut
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
-    src="./assets/node.svg">
+<!--     src="./assets/node.svg"> -->
 
 
 ### Contact
