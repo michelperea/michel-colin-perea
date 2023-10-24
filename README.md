@@ -47,7 +47,7 @@
 
 ### Contact
 
-Portfolio: https://michelcolinperea.top/portfolio/
+Portfolio: https://michelcolinperea.top/portfolio/ 💼
 
 I'm ready to lead your next project. If you have questions, innovative ideas, or wish to discuss web development, *Python, **Front End, or **Back End*, feel free to get in touch with me.
 
