@@ -9,17 +9,18 @@ Here's the correct translation into English without changing the idea:
 
 ### Key Skills
 
-- *Front End Development: My mastery includes **HTML5* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20" />, *CSS3* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20" />, *JavaScript* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" />, and *React* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20" />. I transform ideas into captivating visual experiences.
+- *Full Stack Development: My expertise spans both **Front End** and **Back End**, allowing me to seamlessly bridge the worlds of web development and software engineering.
 
-- *Back End Development: My expertise lies in **Python* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20" />, building robust and scalable applications.
+- *Web Development: I excel in **HTML5** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="20" height="20" />, **CSS3** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="20" height="20" />, and **JavaScript** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="20" height="20" />, crafting captivating visual experiences. I'm also proficient in **React** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20" />.
 
-- *Responsive Design: I use **Bootstrap* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="20" height="20" /> to create elegant and adaptable user interfaces.
+- *Software Engineering: I specialize in **Python** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="20" height="20" />, creating robust and scalable applications.
 
-- *Version Control: Proficient in **Git* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20" />, ensuring seamless collaborative development.
+- *Responsive Design: I use **Bootstrap** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="20" height="20" /> to craft elegant and adaptable user interfaces.
 
-- *Development Environment: I'm comfortable in the world of **Linux* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20" height="20" />, harnessing its open-source potential.
+- *Version Control: Proficient in **Git** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="20" height="20" />, ensuring seamless collaborative development.
 
-- 
+- *Development Environment: I'm at ease in the world of **Linux** <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20" height="20" />, harnessing its open-source potential. My toolbox also includes other tools and technologies that complement my skills in software development.
+
 <img width="70px" 
     height="70px" 
     style="margin: 10px"
