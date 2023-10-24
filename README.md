@@ -17,6 +17,33 @@ I'm a passionate Full Stack developer based in Mexico, dedicated to creating cut
 
 - *Development Environment: I'm comfortable in the world of **Linux* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="20" height="20" />, harnessing its open-source potential.
 
+- 
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/html.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/css.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/javascript.svg"> &nbsp; &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/python.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/react.svg"> &nbsp;
+<img width="70px" 
+    height="70px" 
+    style="margin: 10px"
+    src="./assets/bootstrap.svg">
+
+
 ### Contact
 
 I'm ready to lead your next project. If you have questions, innovative ideas, or wish to discuss web development, *Python, **Front End, or **Back End*, feel free to get in touch with me.
